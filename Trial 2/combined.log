@@ -1,0 +1,8 @@
+{"level":"info","message":"GET /users","timestamp":"2023-06-20T13:02:47.720Z"}
+{"level":"info","message":"POST /users/login","timestamp":"2023-06-20T13:03:22.411Z"}
+{"level":"info","message":"POST /users/login","timestamp":"2023-06-20T13:06:46.104Z"}
+{"level":"info","message":"Provided Email: rs@example.com"}
+{"level":"info","message":"Provided Password: 256202"}
+{"level":"info","message":"User: [object SequelizeInstance:user]"}
+{"level":"info","message":"Hashed Password in Database: $2b$10$CyRo8b/FK4eml.K1N5THV.xKCZ3WQd0kM.1GKWm9SIroOnvrb5szi"}
+{"level":"info","message":"Password Comparison Result: false"}
